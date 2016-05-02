@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Distributed Data Primer
 tagline:          'How to lock the web open'
-description:      'A set of tutorials and presentations explaining the technical ideas behind distributed data.'
+description:      'Tutorials and presentations explaining the technical ideas behind distributed data.'
 url:              http://swadeshi.github.io/distributed-data-primer/
 baseurl:          /distributed-data-primer/
 
