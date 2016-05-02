@@ -11,7 +11,7 @@ This shift towards a decentralized web of data is a lot like the shift from main
 
 ## How to Use this Primer
 
-... fill this in ...
+Visit the [Curriculum Overview](curriculum/overview) for a listing of the content in this primer.
 
 ## Background/Inspiration
 
