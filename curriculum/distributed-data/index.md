@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subject-area
 title: Distributed Data
 category: distributed-data
 tags: Merkle-DAGs
