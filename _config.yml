@@ -6,22 +6,18 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Distributed Data Primer
+title:            Distributed Web Primer
 tagline:          'How to lock the web open'
-description:      'Tutorials and presentations explaining the technical ideas behind distributed data.'
-url:              http://swadeshi.github.io/distributed-data-primer/
-baseurl:          /distributed-data-primer
+description:      'Tutorials and presentations explaining the technical ideas behind the distributed web.'
+url:              http://swadeshi.github.io/distributed-web-primer/
+baseurl:          /distributed-web-primer
 
 author:
   name:           'Matt Zumwalt'
   url:            https://twitter.com/flyingzumwalt
 
-gems: [jekyll-paginate]
-
-paginate:         5
-
 # Custom vars
 version:          0.0.1
 
 github:
-  repo:           https://github.com/swadeshi/distributed-data-primer
+  repo:           https://github.com/swadeshi/distributed-web-primer

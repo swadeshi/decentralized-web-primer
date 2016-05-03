@@ -1,10 +1,10 @@
-# Distributed Data Primer
+# Distributed Web Primer
 
-A set of tutorials and presentations explaining the technical ideas behind distributed data
+A set of tutorials and presentations explaining the technical ideas behind the distributed web
 
 ## Using the Primer
 
-View the live site for the primer at http://swadeshi.github.io/distributed-data-primer/
+View the live site for the primer at http://swadeshi.github.io/distributed-web-primer/
 
 ## Background/Inspiration
 
@@ -15,7 +15,7 @@ To understand the background and motivation for making the web of data distribut
 The most important way to contribute is to use the information in this primer. Educate yourself, educate your friends, teach a class, and tell us how it goes!
 
 * Improve the Tutorials or this website by Creating a Pull Request
-* Recommend topics/tutorials by submitting an Issue in the [issue tracker](https://github.com/swadeshi/distributed-data-primer/issues)
+* Recommend topics/tutorials by submitting an Issue in the [issue tracker](https://github.com/swadeshi/distributed-web-primer/issues)
 
 ## License
 

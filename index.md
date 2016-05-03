@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-## Why you should understand Distributed Data
+## Help Build the Distributed Web
 
-A revolution is afoot. We're Locking the Web Open. There are some basics you need to understand in order to create technologies that ride this wave.  This primer is a collection of tutorials and presentations aimed at letting anyone get their head around these ideas and run with them.
+This shift towards a decentralized web is a lot like the shift from mainframes to personal computers that happened in the 1980s and 1990s, which gave birth to the world wide web.  It's an exciting, time of open, global innovation and experimentation.  Educate yourself and join in.
 
-This shift towards a decentralized web of data is a lot like the shift from mainframes to personal computers that happened in the 1980s and 1990s, which gave birth to the world wide web.  It's an exciting, time of open, global innovation and experimentation.  Educate yourself and join in.
+There are some basics you need to understand in order to create technologies that ride this wave.  This primer is a collection of tutorials and presentations aimed at letting anyone get their head around these ideas and run with them.
 
 ## How to Use this Primer
 
@@ -22,9 +22,9 @@ To understand the background and motivation for making the web of data distribut
 The most important way to contribute is to use the information in this primer. Educate yourself, educate your friends, teach a class, and tell us how it goes!
 
 * Improve the Tutorials or this website by Creating a Pull Request
-* Recommend topics/tutorials by submitting an Issue in the [issue tracker](https://github.com/swadeshi/distributed-data-primer/issues)
+* Recommend topics/tutorials by submitting an Issue in the [issue tracker](https://github.com/swadeshi/distributed-web-primer/issues)
 
-For more information about contributing to this project, go to [the README](https://github.com/swadeshi/distributed-data-primer/blob/gh-pages/README.md)
+For more information about contributing to this project, go to [the README](https://github.com/swadeshi/distributed-web-primer/blob/gh-pages/README.md)
 
 ## License
 
