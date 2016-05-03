@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Help Build the Distributed Web
+## Participate in the Distributed Web
 
 This shift towards a decentralized web is a lot like the shift from mainframes to personal computers that happened in the 1980s and 1990s, which gave birth to the world wide web.  It's an exciting, time of open, global innovation and experimentation.  Educate yourself and join in.
 

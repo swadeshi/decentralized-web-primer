@@ -5,6 +5,23 @@ categories: Merkle-DAGs distributed-data
 ---
 Merkle DAGS & Content Addressable Data
 
+
+## Concepts
+
+* Content Digest Hashes
+* Data Integrity: Using Hashes to Validate Content
+* Hash Tables: Using Hash Tables to distribute data in pieces and validate it
+* Hash Trees (aka Merkle DAGs)
+* Why we call Hash Trees "Merkle DAGs"
+
+
+* Blockchains: distributed databases that use Merkle DAGs
+* Context: Database Replication - Background, CAP Theorem, Existing Technologies
+* Data structures: the content in the blocks. Tabular(Relational, Key-Value), Binary Formats
+
+* How Hash Tables and Hash Trees are used in Bit Torrent, Git, BitCoin, hypercore/dat
+
+
 ## What is a Merkle DAG?
 A Merkle DAG is a tree of Cryptographic hashes. What does that mean?
 
