@@ -17,6 +17,8 @@ The most important way to contribute is to use the information in this primer. E
 * Improve the Tutorials or this website by Creating a Pull Request
 * Recommend topics/tutorials by submitting an Issue in the [issue tracker](https://github.com/swadeshi/distributed-web-primer/issues)
 
+This primer was built using the [jekyll curriculum template](http://flyingzumwalt.github.io/jekyll-curriculum-template/) by [Matt Zumwalt](http://flyingzumwalt.com)
+
 ## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/")  
