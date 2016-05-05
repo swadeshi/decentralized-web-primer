@@ -33,7 +33,7 @@ Merkle DAGS & Content Addressable Data
 
 # Modules
 
-1. **[Building DAGs](modules/building-dags)**
+1. _TODO_: [Building DAGs](modules/building-dags)
 1. **[Putting Data Into DAGs](modules/putting-data-into-dags)**
-1. **[Building a Content Addressable Web](modules/content-addressable-web)**
-1. **[Tabular Data In DAGs](modules/tabular-data-in-dags)**
+1. _TODO_: [Building a Content Addressable Web](modules/content-addressable-web)
+1. _TODO_: [Tabular Data In DAGs](modules/tabular-data-in-dags)
