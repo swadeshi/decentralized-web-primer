@@ -1,5 +1,5 @@
 ---
-layout: subject-area
+layout: course
 title: Distributed Communication
 categories: peer-to-peer, p2p, network-architecture
 ---

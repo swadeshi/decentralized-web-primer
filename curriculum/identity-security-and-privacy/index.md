@@ -1,5 +1,5 @@
 ---
-layout: subject-area
+layout: course
 title: Identity, Security and Privacy
 ---
 
@@ -9,7 +9,7 @@ title: Identity, Security and Privacy
 
 ## Key Concepts
 
-* 
+*
 
 ## Learning Objectives
 

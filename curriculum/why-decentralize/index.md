@@ -1,5 +1,5 @@
 ---
-layout: subject-area
+layout: course
 title: Why Decentralize
 ---
 

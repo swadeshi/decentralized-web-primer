@@ -1,5 +1,5 @@
 ---
-layout: subject-area
+layout: course
 title: Distributed Data
 category: distributed-data
 tags: Merkle-DAGs
