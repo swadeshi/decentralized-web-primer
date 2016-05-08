@@ -9,6 +9,11 @@ tags: Merkle-DAGs
 
 ...
 
+## Learning Objectives
+
+* Explain the Content Addressable Web and its relation to the existing world wide web
+* Illustrate how Merkle DAGs apply to creating a Content Addressable Web
+
 ## Activities
 
 *TODO*: _What Does Content Addressable Mean?_ What is a Content Addressable filesystem and what would a content addressable web look like?  

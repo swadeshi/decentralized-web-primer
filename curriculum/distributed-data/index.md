@@ -8,7 +8,9 @@ Merkle DAGS & Content Addressable Data
 
 ## Overview
 
-... explain ...
+On the centralized web, data accumulate in centralized databases.  Whoever controls those databases are responsible for enduring the information remains available, deciding how to structure the data, controlling who can edit the data, etc. On the decentralized web, the data are spread across the entire web, with many peers sharing the burden of storing, serving, and modifying content.
+
+Content digest hashes (ie. SHA1 hashes) and Merkle DAGs (aka. Hash Trees) are the central structures or technologies that make it possible for us to maintain data in this distributed context. This course allows you to understand those technologies and shows how they are used in technologies like Git, bitcoin, and bit Torrent.  It also provides a foundation for understanding how these technologies allow us to create a content-addressable web.
 
 ## Key Concepts
 
@@ -24,12 +26,16 @@ Merkle DAGS & Content Addressable Data
 
 ## Learning Objectives
 
-* What are Hash Digests, Hash Trees and Merkle DAGs?
-* What does it mean to put data in a Merkle DAG?
-* How do we put tabular data into a Merkle DAG?
-* What is the Content Addressable Web?
-* How do these technologies apply to creating a Content Addressable Web?
-* What are the benefits of distributed data?
+* Create Hash Digests for any content
+* Explain how Hash Digests allow us to verify content integrity
+* Define Hash Trees and Merkle DAGs
+* Demonstrate how to put data in a Merkle DAG
+* Describe ways to put tabular data into a Merkle DAG
+* Distinguish the different ways that Bit Torrent, Git, BitCoin, and hypercore/dat use Hash Tables and Hash Trees
+* Explain the Content Addressable Web and its relation to the existing world wide web
+* Illustrate how Merkle DAGs apply to creating a Content Addressable Web
+* Recognize the benefits of distributed data
+* Describe the challenges of maintaining data in a distributed web
 
 # Modules
 

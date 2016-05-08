@@ -2,6 +2,10 @@
 
 A set of tutorials and presentations explaining the technical ideas behind the distributed web
 
+## This is a Work in Progress!
+
+**This is a Work in Progress!** creating a primer like this is a community effort. If you know about the topics outlined here, or think other information should be included here, _please contribute content!_
+
 ## Using the Primer
 
 View the live site for the primer at http://swadeshi.github.io/distributed-web-primer/

@@ -7,14 +7,15 @@ tags: Merkle-DAGs
 
 ## Conceptual Framework
 
-_Explain_: A Merkle DAG is a tree of Cryptographic hashes. What does that mean and why is it useful?
+A Merkle DAG is a tree of Cryptographic hashes. This module shows What that means and why it's useful.
 
 ## Learning Objectives
 
-* What does it mean to calculate a Hash Digest of content (ie. SHA1 or md5)
-* How can we use them to verify data integrity?
-* What is a Hash Tree (aka Merkle DAG) and why is it useful?
-* Why do we call Hash Trees "Merkle DAGs"?
+* Explain what it means to calculate a Hash Digest of content (ie. SHA1 or md5)
+* Create Hash Digests for any digital content
+* Explain how we use Hash Digests to verify the integrity of content
+* Define the term "Merkle DAG"
+* Draw the general structure of Merkle DAGs
 
 ## Activities
 
