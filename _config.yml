@@ -6,11 +6,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Distributed Web Primer
+title:            Decentralized Web Primer
 tagline:          'How to lock the web open'
-description:      'Tutorials and presentations explaining the technical ideas behind the distributed web.'
-url:              http://swadeshi.github.io/distributed-web-primer/
-baseurl:          /distributed-web-primer
+description:      'Tutorials and presentations explaining the technical ideas behind the decentralized web.'
+url:              http://swadeshi.github.io/decentralized-web-primer/
+baseurl:          /decentralized-web-primer
 
 author:
   name:           'Matt Zumwalt'
@@ -20,4 +20,4 @@ author:
 version:          0.0.1
 
 github:
-  repo:           https://github.com/swadeshi/distributed-web-primer
+  repo:           https://github.com/swadeshi/decentralized-web-primer

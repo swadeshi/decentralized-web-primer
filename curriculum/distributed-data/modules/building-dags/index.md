@@ -1,7 +1,7 @@
 ---
 layout: module
 title: Building DAGs
-category: distributed-data
+category: decentralized-data
 tags: Merkle-DAGs
 ---
 

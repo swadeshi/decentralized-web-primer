@@ -1,7 +1,7 @@
 ---
 layout: activity
 title: Use Cryptographic Hashes to Validate Content
-category: distributed-data
+category: decentralized-data
 module: building-dags
 tags: Merkle-DAGs
 ---

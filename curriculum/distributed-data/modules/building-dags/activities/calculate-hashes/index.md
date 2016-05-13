@@ -1,7 +1,7 @@
 ---
 layout: activity
 title: Calculate Cryptographic Hashes of Content
-category: distributed-data
+category: decentralized-data
 module: building-dags
 tags: Merkle-DAGs
 ---

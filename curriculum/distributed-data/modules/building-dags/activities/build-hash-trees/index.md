@@ -1,7 +1,7 @@
 ---
 layout: activity
 title: Build Hash Trees
-category: distributed-data
+category: decentralized-data
 module: building-dags
 tags: Merkle-DAGs
 ---

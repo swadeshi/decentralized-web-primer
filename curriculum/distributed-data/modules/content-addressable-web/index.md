@@ -1,7 +1,7 @@
 ---
 layout: module
 title: Building A Content Addressable Web
-category: distributed-data
+category: decentralized-data
 tags: Merkle-DAGs
 ---
 

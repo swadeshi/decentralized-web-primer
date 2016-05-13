@@ -1,7 +1,7 @@
 ---
 layout: course
-title: Distributed Data
-category: distributed-data
+title: Decentralized Data
+category: decentralized-data
 tags: Merkle-DAGs
 ---
 Merkle DAGS & Content Addressable Data
@@ -10,7 +10,7 @@ Merkle DAGS & Content Addressable Data
 
 On the centralized web, data accumulate in centralized databases.  Whoever controls those databases are responsible for enduring the information remains available, deciding how to structure the data, controlling who can edit the data, etc. On the decentralized web, the data are spread across the entire web, with many peers sharing the burden of storing, serving, and modifying content.
 
-Content digest hashes (ie. SHA1 hashes) and Merkle DAGs (aka. Hash Trees) are the central structures or technologies that make it possible for us to maintain data in this distributed context. This course allows you to understand those technologies and shows how they are used in technologies like Git, bitcoin, and bit Torrent.  It also provides a foundation for understanding how these technologies allow us to create a content-addressable web.
+Content digest hashes (ie. SHA1 hashes) and Merkle DAGs (aka. Hash Trees) are the central structures or technologies that make it possible for us to maintain data in this decentralized context. This course allows you to understand those technologies and shows how they are used in technologies like Git, bitcoin, and bit Torrent.  It also provides a foundation for understanding how these technologies allow us to create a content-addressable web.
 
 ## Key Concepts
 
@@ -19,7 +19,7 @@ Content digest hashes (ie. SHA1 hashes) and Merkle DAGs (aka. Hash Trees) are th
 * Hash Tables: Using Hash Tables to distribute data in pieces and validate it
 * Hash Trees (aka Merkle DAGs)
 * Why we call Hash Trees "Merkle DAGs"
-* Blockchains: distributed databases that use Merkle DAGs
+* Blockchains: decentralized databases that use Merkle DAGs
 * Context: Database Replication - Background, CAP Theorem, Existing Technologies
 * Data structures: the content in the blocks. Tabular(Relational, Key-Value), Binary Formats
 * How Hash Tables and Hash Trees are used in Bit Torrent, Git, BitCoin, hypercore/dat
@@ -34,8 +34,8 @@ Content digest hashes (ie. SHA1 hashes) and Merkle DAGs (aka. Hash Trees) are th
 * Distinguish the different ways that Bit Torrent, Git, BitCoin, and hypercore/dat use Hash Tables and Hash Trees
 * Explain the Content Addressable Web and its relation to the existing world wide web
 * Illustrate how Merkle DAGs apply to creating a Content Addressable Web
-* Recognize the benefits of distributed data
-* Describe the challenges of maintaining data in a distributed web
+* Recognize the benefits of decentralized data
+* Describe the challenges of maintaining data in a decentralized web
 
 # Modules
 

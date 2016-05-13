@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Distributed Communication
+title: Decentralized Communication
 categories: peer-to-peer, p2p, network-architecture
 ---
 
