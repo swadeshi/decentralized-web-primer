@@ -4,9 +4,11 @@ title: Decentralized Communication
 categories: peer-to-peer, p2p, network-architecture
 ---
 
+*This page is incomplete. [Maybe you could finish it...](https://github.com/swadeshi/decentralized-web-primer/blob/gh-pages/CONTRIBUTING.md)*
+
 ## Overview
 
-... explain ...
+*TODO*
 
 ## Key Concepts
 
@@ -18,4 +20,8 @@ categories: peer-to-peer, p2p, network-architecture
 
 ## Learning Objectives
 
+*TODO*
+
 ## Modules
+
+*TODO*

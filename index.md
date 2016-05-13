@@ -5,7 +5,7 @@ title: Home
 
 ## This is a Work in Progress!
 
-**This is a Work in Progress!** creating a primer like this is a community effort. If you know about the topics outlined here, or think other information should be included here, _please contribute content!_
+_**This is a Work in Progress!** creating a primer like this is a community effort. If you know about the topics outlined here, or think other information should be included here, [please contribute content!](https://github.com/swadeshi/decentralized-web-primer/blob/gh-pages/CONTRIBUTING.md)_
 
 ## Participate in the Decentralized Web
 

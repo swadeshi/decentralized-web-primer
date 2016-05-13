@@ -23,6 +23,8 @@ The most important way to contribute is to use the information in this primer. E
 
 This primer was built using the [jekyll curriculum template](http://flyingzumwalt.github.io/jekyll-curriculum-template/) by [Matt Zumwalt](http://flyingzumwalt.com)
 
+For more info about contributing, go to the [Information for Contributors](./CONTRIBUTING.md)
+
 ## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/")  
